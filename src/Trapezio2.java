@@ -1,5 +1,5 @@
 /**
- * <h2>classe trapezio</h2>
+ * <h3>classe trapezio</h3>
  */
 /**
  * @author
